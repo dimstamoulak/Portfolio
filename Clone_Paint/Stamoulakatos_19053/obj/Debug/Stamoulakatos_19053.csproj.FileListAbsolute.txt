@@ -1,0 +1,30 @@
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe.config
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.pdb
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csprojAssemblyReference.cache
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Form1.resources
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Properties.Resources.resources
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.GenerateResource.cache
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.CoreCompileInputs.cache
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.exe
+C:\Users\dimst\source\repos\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.pdb
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe.config
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.pdb
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csprojAssemblyReference.cache
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Form1.resources
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Properties.Resources.resources
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.GenerateResource.cache
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.CoreCompileInputs.cache
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.exe
+C:\Users\dimst\Desktop\Stamoulakatos_19053\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.pdb
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe.config
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.exe
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\bin\Debug\Stamoulakatos_19053.pdb
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csprojAssemblyReference.cache
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Form1.resources
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.Properties.Resources.resources
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.GenerateResource.cache
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.csproj.CoreCompileInputs.cache
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.exe
+F:\Αρχείο\Msc Informatics\Project\Clone_Paint\Stamoulakatos_19053\obj\Debug\Stamoulakatos_19053.pdb
